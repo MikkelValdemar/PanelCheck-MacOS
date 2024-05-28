@@ -20,7 +20,7 @@ Installation
 Requirements
 ------------
 
-This version of PanelCheck of created for Mac with Apple M1 or higher. 
+This version of PanelCheck was created for Mac with Apple M1 or higher. 
 
 Download and your first launch
 ------------------------------
