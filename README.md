@@ -20,13 +20,13 @@ Installation
 Requirements
 ------------
 
-This version of PanelCheck was created for Mac with Apple M1 or higher. 
+This version of PanelCheck was created for Mac with Apple M1 or higher. If you are unsure which chip your computer has click on the Apple logo in the top left corner and navigate to About This Mac where you can find the Chip information.
 
-Download and your first launch
+Download and launch
 ------------------------------
 
 -   Download this repository
--   Unzip and place the folder somewhere meaningful on your computer ( *Not* in Downloads)
+-   Unzip and place the folder somewhere meaningful on your computer
 -   When you want to open the program first time, you will *NOT* be able to doubleclick. Use **Finder** to direct to the folder with the program, and then cmd+click on the icon. Then you will be prompted with this window where you hit enter.
 
 From now on you will be able to simple double-click on the program to get it running.
