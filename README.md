@@ -27,7 +27,7 @@ Download and launch
 
 -   Download this repository
 -   Unzip and place the folder somewhere meaningful on your computer
--   When you want to open the program first time, you will *NOT* be able to doubleclick. Use **Finder** to direct to the folder with the program, and then cmd+click on the icon. Then you will be prompted with this window where you hit enter.
+-   When you want to open the program first time, you will *NOT* be able to doubleclick. Use **Finder** to direct to the folder with the program, and then hold the `control` button and click on the icon. Click `Open`. You will then be prompted with a pop-up window where you click `Open` again. You might have to repeat the proces twice. 
 
 From now on you will be able to simple double-click on the program to get it running.
 
